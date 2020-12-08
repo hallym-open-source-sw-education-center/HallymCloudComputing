@@ -13,7 +13,7 @@
 이를 바탕으로 받아쓰기 프로그램을 개발 하였습니다.
 
 ## 4. 프로젝트 개발 결과물 소개
-![arc](https://user-images.githubusercontent.com/57057158/101543160-34bd9380-39e7-11eb-9569-6aa17c411c3e.png)
+![arc](https://user-images.githubusercontent.com/57057158/101543855-28860600-39e8-11eb-9d61-ee8f0a2c697a.png)
 
 ## 5. 개발 결과물을 사용하는 방법 소개
 [접속](http://54.226.97.238/)
