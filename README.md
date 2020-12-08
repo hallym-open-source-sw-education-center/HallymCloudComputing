@@ -16,15 +16,9 @@
 +다이어그램
 
 ## 5. 개발 결과물을 사용하는 방법 소개
-Front   
+
 ```
-npm init
-npm run serve
-```
-Backend
-```
-lombok
-run spring boot application
+210.115.230.1
 ```
 
 ## 6. 개발 결과물의 필요성 및 활용방안
